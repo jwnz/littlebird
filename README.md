@@ -11,7 +11,7 @@ LittleBird is a sparse attention model proposed by Kakao Enterprise Corp. that i
 ## Installation
 
 
-During developemnt, I used Python 3.8 and Pytorch 1.12. You can install from source as follows:
+During development, I used Python 3.8 and Pytorch 1.12. You can install from source as follows:
 
 ```Bash
 pip install .
