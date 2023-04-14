@@ -47,7 +47,7 @@ m(
 
 ## Contributing
 
-I implemented this model as a small side project for fun. There may be minor issues with the implementation. I greatly appreciate all contributions. If you have any issues, bug reports, or feature requests, you may open an issue on github. Alternatively, feel free to fork this repository and submit a pull request with your changes.
+There may be minor issues with the implementation. I greatly appreciate all contributions. If you have any issues, bug reports, or feature requests, you may open an issue on github. Alternatively, feel free to fork this repository and submit a pull request with your changes.
 
 ## References
 
